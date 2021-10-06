@@ -1,16 +1,40 @@
-### Hi there 👋
+### Aravind K---aravind_k28
 
-<!--
-**the-coding-pie/the-coding-pie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Aravind, a curious developer (frontend) and a passionate learner from 🇮🇳. I ❤️ learning new technologies and building unique & exciting projects. And hey, I am blogger too 🤩. Check out my personal space on the internet -> [thecodingpie.com](https://thecodingpie.com/).
 
-Here are some ideas to get you started:
+## 💻 My skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React JS
+- Next JS
+- Redux, Redux Toolkit
+- React Query
+- React Table
+- Tailwind CSS
+- Styled Components
+- CSS Modules
+- Typescript
+- Javascript
+
+## ✨ Also Loves
+
+- Node JS
+- Express JS
+- Mongo DB
+- Flask
+- Python
+- More coming on the way...
+
+## 📱 Get In Touch
+
+- Twitter - [https://twitter.com/aravind_k28](https://twitter.com/aravind_k28)
+- Personal Blog - [https://thecodingpie.com/](https://thecodingpie.com/)
+- Linked In - [https://www.linkedin.com/in/aravind-k-97b516216/](https://www.linkedin.com/in/aravind-k-97b516216/)
+
+## ❤️ Love What I Do?
+
+- BuyMeACoffee - [https://ko-fi.com/thecodingpie](https://ko-fi.com/thecodingpie)
+
+
+```
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+```
