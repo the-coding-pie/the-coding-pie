@@ -15,7 +15,7 @@ Hi there, I'm Aravind, a curious developer (frontend) and a passionate learner f
 - Typescript
 - Javascript
 
-## ✨ Also Loves
+## ✨ Also Efficient In
 
 - Node JS
 - Express JS
