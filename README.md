@@ -1,6 +1,6 @@
 ### Aravind K---aravind_k28
 
-Hi there, I'm Aravind, a curious developer (frontend) and a passionate learner from 🇮🇳. I ❤️ learning new technologies and building unique & exciting projects. And hey, I am blogger too 🤩. Check out my personal space on the internet -> [thecodingpie.com](https://thecodingpie.com/).
+Hi there, I'm Aravind, a curious developer (frontend) and a passionate learner from 🇮🇳. I ❤️ learning new technologies and building unique & exciting projects. And hey, I am a blogger too 🤩. Check out my personal space on the internet -> [thecodingpie.com](https://thecodingpie.com/).
 
 ## 💻 My skills
 
