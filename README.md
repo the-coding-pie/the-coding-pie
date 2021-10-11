@@ -32,4 +32,4 @@ Hi there, I'm Aravind, a curious developer (frontend) and a passionate learner f
 
 ## ❤️ Love What I Do?
 
-- BuyMeACoffee - [https://ko-fi.com/thecodingpie](https://ko-fi.com/thecodingpie)
+- Support Me @Kofi - [https://ko-fi.com/thecodingpie](https://ko-fi.com/thecodingpie)
