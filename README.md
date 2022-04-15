@@ -21,8 +21,7 @@ Hi there, I'm Aravind, a curious developer (frontend) and a passionate learner f
 - Express JS
 - Mongo DB
 - Flask
-- Python
-- More coming on the way...
+- Python and more...
 
 ## 📱 Get In Touch
 
