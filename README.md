@@ -7,8 +7,11 @@ Hi there, I'm Aravind, a curious developer (frontend) and a passionate learner f
 - React JS
 - Next JS
 - Redux, Redux Toolkit
+- Zustand
 - React Query
 - React Table
+- Formik
+- React hook forms
 - Tailwind CSS
 - Styled Components
 - CSS Modules
@@ -26,7 +29,6 @@ Hi there, I'm Aravind, a curious developer (frontend) and a passionate learner f
 ## 📱 Get In Touch
 
 - Twitter - [https://twitter.com/aravind_k28](https://twitter.com/aravind_k28)
-- Personal Blog - [https://thecodingpie.com/](https://thecodingpie.com/)
 - Linked In - [https://www.linkedin.com/in/aravind-k-97b516216/](https://www.linkedin.com/in/aravind-k-97b516216/)
 
 ## ❤️ Love What I Do?
