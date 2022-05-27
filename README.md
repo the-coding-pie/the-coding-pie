@@ -8,6 +8,7 @@ Hi there, I'm Aravind, a curious developer (frontend) and a passionate learner f
 - Next JS
 - Redux, Redux Toolkit
 - Zustand
+- Context API
 - React Query
 - React Table
 - Formik
