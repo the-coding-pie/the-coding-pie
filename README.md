@@ -19,6 +19,7 @@ Hi there, I'm Aravind, a curious developer (frontend) and a passionate learner f
 - Typescript
 - Javascript
 - Keycloak
+- Nivo(chart)
 - Webpack
 - Vite
 - React Intl
