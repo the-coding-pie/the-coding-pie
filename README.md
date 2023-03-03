@@ -19,6 +19,11 @@ Hi there, I'm Aravind, a curious developer (frontend) and a passionate learner f
 - Typescript
 - Javascript
 - Keycloak
+- Webpack
+- Vite
+- React Intl
+- HTML5
+- CSS3
 
 ## ✨ Also Efficient In
 
