@@ -22,7 +22,7 @@ Hi there, I'm Aravind, a curious developer (frontend) and a passionate learner f
 - Nivo(chart)
 - Webpack
 - Vite
-- React Intl
+- FormatJS(react-intl)
 - HTML5
 - CSS3
 
