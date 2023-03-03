@@ -8,11 +8,11 @@ Hi there, I'm Aravind, a curious developer (frontend) and a passionate learner f
 - Next JS
 - Redux, Redux Toolkit
 - Zustand
-- Context API
+- React Context
 - React Query
 - React Table
 - Formik
-- React hook forms
+- React hook form
 - Tailwind CSS
 - Styled Components
 - CSS Modules
