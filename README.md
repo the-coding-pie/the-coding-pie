@@ -10,6 +10,7 @@ Hi there, I'm Aravind, a curious developer (frontend) and a passionate learner f
 - Zustand
 - React Context
 - React Query
+- React Router
 - React Table
 - Formik
 - React hook form
